@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![website](./img/github-light.svg)](https://github.com/Chandra-XD#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/Chandra-XD#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/splash_logo.png)](https://wa.me/628882141495#gh-light-mode-only)
+[![website](./img/whatsapp-line.svg)](https://wa.me/628882141495#gh-dark-mode-only)
