@@ -24,3 +24,4 @@
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/Chandra-XD"><img src="https://github-readme-stats.vercel.app/api?username=Chandra-XD&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Chandra-XD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-XD&theme=radical&layout=compact"></a></p> 
