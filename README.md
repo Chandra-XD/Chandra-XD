@@ -3,10 +3,10 @@
 </p>
 <p align="center">
 
-Hy kids 👋<br>
-Nama gwe Candra, panggil aja can<br>
-Umur 15 tahun, dan masi esempe<br>
-Itu yang diatas waifu gwe ya kids, whehehe >_< <br>
+• Hy kids 👋<br>
+• Nama gwe Candra, panggil aja can<br>
+• Umur 15 tahun, dan masi esempe<br>
+• Itu yang diatas waifu gwe ya kids, whehehe >_< <br>
 </p>
 
 ------
@@ -19,3 +19,8 @@ Itu yang diatas waifu gwe ya kids, whehehe >_< <br>
   <a href="https://github.com/Chandra-XD"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://komarev.com/ghpvc/?username=ChandraXD307&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ChandraXD307&color=green&style=flat-square&label=Profile+View"></a>
 </p>
+
+------
+### Github Stats 🚀
+
+<p align="center"><a href="https://github.com/Chandra-XD"><img src="https://github-readme-stats.vercel.app/api?username=Chandra-XD&show_icons=true&theme=radical"></a></p>
