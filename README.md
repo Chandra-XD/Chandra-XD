@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/tiktok.pnggilajacn#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/tiktok.pnggilajacn#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/github-light.svg)](https://github.com/Chandra-XD#gh-light-mode-only)
+[![website](./img/github-dark.svg)](https://github.com/Chandra-XD#gh-dark-mode-only)
