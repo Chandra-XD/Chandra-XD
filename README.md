@@ -25,3 +25,5 @@
 
 <p align="center"><a href="https://github.com/Chandra-XD"><img src="https://github-readme-stats.vercel.app/api?username=Chandra-XD&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Chandra-XD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-XD&theme=radical&layout=compact"></a></p> 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chandra-XD&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
