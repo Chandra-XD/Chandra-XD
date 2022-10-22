@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bahan-bahan/itsuka kotori on Tumblr.gif" />
+  <img src="https://raw.githubusercontent.com/Chandra-XD/cn-grabbed-result/main/media/gif/itsuka%20kotori%20on%20Tumblr.gif" />
 </p>
 <p align="center">
 
