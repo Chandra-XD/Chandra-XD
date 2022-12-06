@@ -26,10 +26,8 @@
 <p align="center"><a href="https://github.com/Chandra-XD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-XD&theme=radical&layout=compact"></a></p> 
 <p align="center"><a href="https://github.com/Chandra-XD"><img src="https://github-readme-stats.vercel.app/api?username=Chandra-XD&show_icons=true&theme=radical"></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandra-XD&theme=radical" alt="Chandra-XD" /></p>
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chandra-XD&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 <p align="center">
