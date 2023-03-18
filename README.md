@@ -5,7 +5,7 @@
 
 • Hy kids 👋<br>
 • Nama gwe Candra, panggil aja can<br>
-• Umur 15 tahun, dan masi esempe<br>
+• Umur 16 tahun, dan masi esemka<br>
 • Itu yang diatas waifu gwe ya kids, whehehe >_< <br>
 </p>
 
