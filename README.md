@@ -13,17 +13,36 @@ Klo lu bisa html ajarin gwe bang. gw pengen bisa html<br>
 </p>
 
 ------
-### Follow bang biar gw seneng 😄
-<p align="center">
-  <a href="https://instagram.com/pnggilajacn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://s.id/pnggilajacn"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://youtube.com/@ChandraXD307"><img src="https://img.shields.io/badge/YouTube-ChandraXD307-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/ChandraXD307" /><br>
-  <a name=ChandraXD307&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/Chandra-XD"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://komarev.com/ghpvc/?username=ChandraXD307&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ChandraXD307&color=green&style=flat-square&label=Profile+View"></a>
-</p>
+### Sosial Media
+<details>
+ <summary>SOSMED GWE</summary>
 
-------
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pnggilajacn)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/pnggilajacn)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pnggilajacn)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-%808080?style=flat-square&logo=Whatsapp&logoColor=white)](https://s.id/pnggilajacn)
+[![Email Badge](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=email&logoColor=white)](mailto:cuancari074@gmail.com)
+<a href="https://github.com/Chandra-XD"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+<a href="https://komarev.com/ghpvc/?username=ChandraXD307&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ChandraXD307&color=green&style=flat-square&label=Profile+View"></a>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-0088cc?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/@Chandra_XD307)
+<a href="https://tiktok.com/@pnggilajacn"><img src="https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok" /> 
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@ChandraXD307)
+
+</details>
+
+<details>
+ <summary>DONASINYA BANG</summary>
+
+### Pulsa
+- Axis: 083848947227
+- Indosat: 085785705233
+- Three: 08990085223
+
+### Uang digital
+- [Saweria](https://saweria.co/pnggilajacn)
+- [Trakteer](https://trakteer.id/pnggilajacn)
+</details>
+
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/Chandra-XD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-XD&theme=radical&layout=compact"></a></p> 
