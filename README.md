@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chandra-XD/cn-grabbed-result/main/media/gif/itsuka%20kotori%20on%20Tumblr.gif" />
+<img src="https://raw.githubusercontent.com/Chandra-XD/cn-grabbed-result/main/media/gif/itsuka%20kotori%20on%20Tumblr.gif" />
 </p>
 <p align="center">
 
-• Hy kids 👋<br>
+• Hy deck 👋<br>
 • Nama gwe Candra, panggil aja can<br>
-• Umur 16 tahun, dan masi esemka<br>
-• Itu yang diatas waifu gwe ya kids, whehehe >_< <br>
+• Umur 16 tahun.. ( bocil epeps )<br>
+• Itu yang diatas waifu gwe ya deck, whehehe >_< <br>
 
-Gw suka html tapi belum bisa menguasai html.<br>
+Gw sebenernya suka html tapi gatau banyak tentang html.<br>
 Klo lu bisa html ajarin gwe bang. gw pengen bisa html<br>
 </p>
 
 ------
-### Sosial Media
+
 <details>
- <summary>SOSMED GWE</summary><br>
+ <summary>Sosmed Gwe</summary><br>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pnggilajacn)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/pnggilajacn)
@@ -31,7 +31,7 @@ Klo lu bisa html ajarin gwe bang. gw pengen bisa html<br>
 </details>
 
 <details>
- <summary>DONASINYA BANG</summary>
+ <summary>Donasinya Bang</summary>
 
 ### Pulsa
 - Axis: 083848947227
@@ -43,8 +43,9 @@ Klo lu bisa html ajarin gwe bang. gw pengen bisa html<br>
 - [Trakteer](https://trakteer.id/pnggilajacn)
 </details>
 
-### Github Stats 🚀
-
+<details>
+ <summary>Github Stats</summary>
+<br>
 <p align="center"><a href="https://github.com/Chandra-XD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-XD&theme=radical&layout=compact"></a></p> 
 <p align="center"><a href="https://github.com/Chandra-XD"><img src="https://github-readme-stats.vercel.app/api?username=Chandra-XD&show_icons=true&theme=radical"></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandra-XD&theme=radical" alt="Chandra-XD" /></p>
@@ -52,4 +53,5 @@ Klo lu bisa html ajarin gwe bang. gw pengen bisa html<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+</details>
 <p align="center">
