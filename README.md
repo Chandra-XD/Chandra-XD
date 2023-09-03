@@ -3,19 +3,18 @@
 </p>
 <p align="center">
 
-• Hy deck 👋<br>
-• Nama gwe Candra, panggil aja can<br>
-• Umur 16 tahun.. ( bocil epeps )<br>
-• Itu yang diatas waifu gwe ya deck, whehehe >_< <br>
-
-Gw sebenernya suka html tapi gatau banyak tentang html.<br>
-Klo lu bisa html ajarin gwe bang. gw pengen bisa html<br>
+• Hai 👋<br>
+• Nama gw Candra, panggil aja can<br>
+• Umur gw 16 tahun, asli Blora Jawa Tengah<br>
+• Sekarang tinggal di Citeureup Jawa Barat<br>
+• Pendidikan masih kelas 10 SMK, jurusan TKJ<br>
+• Hobi nyari kesibukan di rl, apa aja<br>
 </p>
 
 ------
 
 <details>
- <summary>Sosmed Gwe</summary><br>
+ <summary>Sosmed Gw</summary><br>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pnggilajacn)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/pnggilajacn)
